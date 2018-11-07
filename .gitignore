@@ -1,0 +1,4 @@
+*.txt
+*.tar.gz
+dataset/*
+ipynb_checkpoints/*
