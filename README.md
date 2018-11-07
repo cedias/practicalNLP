@@ -1,7 +1,6 @@
-# TP
+# Practical NLP
 
 ## Instructions to get started
--------
 
 - Clone repository: `git clone git@github.com:cedias/practicalNLP.git`
 - move in directory: `cd practicalNLP`
