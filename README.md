@@ -35,3 +35,5 @@ https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/
 import sys
 !{sys.executable} -m pip install [--user] package
 ```
+## Pre-trained embeddings:
+can be found here -> https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
