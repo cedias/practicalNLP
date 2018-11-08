@@ -1,5 +1,12 @@
 # Practical NLP
 
+## SLIDES OF COURSES:
+
+- [Introduction to NLP](http://www-connex.lip6.fr/~dias/nlp-intro.pdf)
+- [NLP Deep Learning](http://www-connex.lip6.fr/~dias/nlp-deep.pdf)
+- [Intro to recommenders](http://www-connex.lip6.fr/~dias/RS-intro.pdf)
+
+
 ## Instructions to get started (ON LINUX)
 
 - Clone repository: `git clone git@github.com:cedias/practicalNLP.git`
