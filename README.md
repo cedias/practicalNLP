@@ -14,3 +14,10 @@
 - (Manually) download files listed in "dataset/source" file
 - Extract them if needed
 - start notebook somehow
+
+##  Install package directly within jupyter notebooks:
+
+```python
+import sys
+!{sys.executable} -m pip install [--user] package
+```
